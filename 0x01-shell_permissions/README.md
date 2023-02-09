@@ -1,0 +1,1 @@
+In this Folder, I learned the basics of shell permissions in Linux/Unix systems. I found various exercises to help me understand the concepts and practice using them. Each exercise contains a description of the problem, a solution, and a sample output so I can see how it works. I was able to use the command line to test my understanding of shell permissions. 
